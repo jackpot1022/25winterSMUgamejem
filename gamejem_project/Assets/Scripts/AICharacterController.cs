@@ -73,4 +73,6 @@ public class AICharacterController : MonoBehaviour
         Gizmos.DrawWireCube(transform.position + Vector3.left * sensorRange, sensorSize);
         Gizmos.DrawWireCube(transform.position + Vector3.right * sensorRange, sensorSize);
     }
+
+    //wow
 }
